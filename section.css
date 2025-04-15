@@ -1,9 +1,36 @@
-h1, p {
+
+
+body {
+
+
+    background-color: #475569;
+}
+
+
+
+h1  {
     --font-family-tight: 'Inter Tight', sans-serif;
     font-family: var(--font-family-tight);
 
     --font-family-tight: 'Inter Tight', sans-serif;
     font-family: var(--font-family-tight);
+
+    color: #ECFDF5;
+
+}
+
+p {
+
+
+    --font-family-tight: 'Inter Tight', sans-serif;
+    font-family: var(--font-family-tight);
+
+    --font-family-tight: 'Inter Tight', sans-serif;
+    font-family: var(--font-family-tight);
+
+color: aliceblue;
+
+font-size: smaller;
 }
 
 header {
@@ -11,3 +38,35 @@ header {
 margin-left: 600px;
 margin-top: 190px;
 }
+
+
+.date-selector {
+    background-color: #1E1E2E;
+    border: 1px solid #333;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    width: fit-content;
+    cursor: pointer;
+    margin-left: 1090px;
+    margin-top:  -89px;
+  
+  }
+  
+  .date-icon {
+    color: #8B6BF3; /* Cor roxa do ícone de calendário */
+    margin-right: 8px;
+  }
+  
+  .date-value {
+    color: #8B6BF3;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    margin-right: 8px;
+  }
+  
+  .dropdown-icon {
+    color: #8B6BF3;
+    font-size: 10px;
+  }
