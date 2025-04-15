@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+:root {
+
+    
+    /* Color System - Core Colors */
+    --core-neutral-50: #F8FAFC;
+    --core-neutral-100: #F1F5F9;
+    --core-neutral-200: #E2E8F0;
+    --core-neutral-300: #CBD5E1;
+    --core-neutral-400: #94A3B8;
+    --core-neutral-500: #64748B;
+    --core-neutral-600: #475569;
+    --core-neutral-700: #334155;
+    --core-neutral-800: #1E293B;
+    --core-neutral-900: #0F172A;
+    --core-purple-50: #F3F1FF;
+    --core-purple-500: #7C3AED;
+    
+    /* Primary and Secondary Colors */
+    --primary-50: #EFF6FF;
+    --primary-100: #DBEAFE;
+    --primary-200: #BFDBFE;
+    --primary-300: #93C5FD;
+    --primary-400: #60A5FA;
+    --primary-500: #3B82F6;
+    --primary-600: #2563EB;
+    --primary-700: #1D4ED8;
+    --primary-800: #1E40AF;
+    --primary-900: #1E3A8A;
+    
+    /* Warning Colors */
+    --warning-50: #FFFBEB;
+    --warning-500: #F59E0B;
+    
+    /* Success Colors */
+    --success-50: #ECFDF5;
+    --success-500: #10B981;
+    
+    /* Error Colors */
+    --error-50: #FEF2F2;
+    --error-500: #EF4444;
+    
+    /* Typography */
+    --font-family-tight: 'Inter Tight', sans-serif;
+    --font-family-regular: 'Inter', sans-serif;
+    
+    /* Font Sizes */
+    --font-size-xs: 12px;
+    --font-size-sm: 14px;
+    --font-size-md: 16px;
+    --font-size-lg: 18px;
+    --font-size-xl: 20px;
+    --font-size-2xl: 24px;
+    --font-size-3xl: 30px;
+    --font-size-4xl: 36px;
+    --font-size-5xl: 48px;
+    
+    /* Font Weights */
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+  }
