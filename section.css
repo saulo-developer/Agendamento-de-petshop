@@ -168,20 +168,6 @@ img{
 
 
 
-
-
-
-
-
-
-
-img {
-
-
-    margin-top: -8px;
-    margin-left: -8px;
-}
-
 h1  {
     --font-family-tight: 'Inter Tight', sans-serif;
     font-family: var(--font-family-tight);
